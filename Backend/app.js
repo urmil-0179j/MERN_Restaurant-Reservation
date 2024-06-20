@@ -5,7 +5,7 @@ import { dbConnection } from "./database/dbConnection.js"
 import { errorMiddleware } from "./error/error.js"
 import reservationRouter from "./routes/reservationRoute.js"
 const app = express()
-dotenv.config({ path: "./config/config.env"});
+dotenv.config({ path: "./config.env"});
 
 app.use(cors({
     origin: [process.env.FRONTEND_URL],

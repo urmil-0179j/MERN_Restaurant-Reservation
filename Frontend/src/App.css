@@ -210,6 +210,7 @@ nav svg {
   width: 100%;
 }
 .heroSection .container .banner .imageBox img {
+  border-radius: 10px;
   width: 300px;
   height: 385px;
 }
@@ -458,6 +459,8 @@ nav svg {
   padding: 0 100px;
 }
 .qualities .container .card img {
+  height: 100px;
+  width: 100px;
   margin-bottom: 25px;
 }
 .qualities .container .card .title {
@@ -544,7 +547,9 @@ nav svg {
 }
 .menu .container .dishes_container .card img {
   width: 100%;
-  height: 370px;
+  height: 380px;
+  border-radius: 10px;
+  object-fit: cover;
 }
 .menu .container .dishes_container .card h3 {
   font-size: 1.5rem;
@@ -583,6 +588,7 @@ nav svg {
     width: 50%;
   }
   .menu .container .dishes_container .card img {
+    /* width: 500px; */
     height: auto;
   }
   .menu .container .dishes_container .card h3 {

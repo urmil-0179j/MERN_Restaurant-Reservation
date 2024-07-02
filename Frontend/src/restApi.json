@@ -23,51 +23,57 @@
         "dishes": [
             {
                 "id": 1,
-                "image": "./dinner1.jpeg",
-                "title": "ROASTED LAMB RUMP",
-                "category": "Dinner"
+                "image": "./breakfast1.png",
+                "title": "POHA",
+                "category": "Breakfast"
+
             },
             {
                 "id": 2,
-                "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
-                "category": "Dinner"
+                "image": "./breakfast2.png",
+                "title": "ALOO PARATHA",
+                "category": "Breakfast"
+
             },
             {
                 "id": 3,
-                "image": "./breakfast1.png",
-                "title": "PAN SEARED SEA BASS",
-                "category": "Breakfast"
+                "image": "./lunch1.png",
+                "title": "DAL FRY JEERA RICE",
+                "category": "Lunch"
+
+
             },
             {
                 "id": 4,
-                "image": "./dinner3.png",
-                "title": "STUFFED STRAWBERRY",
-                "category": "Dinner"
+                "image": "./lunch2.png",
+                "title": "VEG MANCHURIAN NOODLES",
+                "category": "Lunch"
+
             },
             {
                 "id": 5,
-                "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
-                "category": "Lunch"
+                "image": "./dinner1.jpg",
+                "title": "CHOLE BHATURE",
+                "category": "Dinner"
             },
             {
                 "id": 6,
-                "image": "./dinner4.png",
-                "title": "MUSSELS SOUP",
+                "image": "./dinner4.jpg",
+                "title": "SOUTH SPECIAL DOSA",
                 "category": "Dinner"
             },
             {
                 "id": 7,
-                "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
+                "image": "./dinner2.png",
+                "title": "PAV BHAJI",
                 "category": "Dinner"
             },
             {
                 "id": 8,
-                "image": "./dinner6.png",
-                "title": "GRILLED FISH",
-                "category": "Dinner"
+                "image": "./dinner3.png",
+                "title": "RICE KHEER",
+                "category": "Dessert"
+
             }
         ],
         "team": [

@@ -7,7 +7,8 @@ const Footer = () => {
           <div className="banner">
             <div className="left">MUNCHIE FINDER</div>
             <div className="right">
-              <p>Panjrapol, opp. Old Sachivalay, Ambawadi, Ahmedabad</p>
+              <p> Silver radiance, Sindhu Bhavan Marg, Ahmedabad </p>
+              {/* <p> Ahmedabad </p> */}
               <p>Open: 08:00 AM - 11:00 PM</p>
             </div>
           </div>

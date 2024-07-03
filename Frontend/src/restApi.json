@@ -5,19 +5,19 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "At Munchie Finder, we serve exceptional dishes made from the freshest ingredients, ensuring a delightful culinary experience with every bite." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "Savor the rich, authentic flavors at Munchie Finder, where each dish is a harmonious blend of spices and ingredients, delivering an unforgettable taste experience." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Enjoy our swift and reliable delivery service at Munchie Finder, bringing delicious, freshly-prepared meals straight to your door in no time." 
             }
         ],
         "dishes": [
@@ -128,7 +128,7 @@
         "who_we_are": [
             {
                 "id": 1,
-                "number": "14",
+                "number": "4",
                 "title": "Restaurants"
             },
             {
@@ -143,7 +143,7 @@
             },
             {
                 "id": 4,
-                "number": "200",
+                "number": "80",
                 "title": "Food Dishes"
             }
         ],

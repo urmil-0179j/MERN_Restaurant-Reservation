@@ -13,13 +13,7 @@ const About = () => {
               <p>The only thing we are  serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+            Welcome to Munchie Finder, your ultimate Indian culinary destination. Our menu offers everything from spicy North Indian Foods to savory South Indain Foods. We pride ourselves on using the freshest ingredients for an exceptional dining experience. Reserve your table online or enjoy our fast, reliable delivery service, bringing freshly-prepared meals straight to your door. At Munchie Finder, every meal is a celebration!Join us at Munchie Finder, where every meal is a celebration! 
             </p>
             <Link to={"/"}>
               Explore Menu{" "}

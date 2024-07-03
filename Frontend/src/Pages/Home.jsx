@@ -7,12 +7,6 @@ import Qualities from "../components/Qualities.jsx"
 import WhoAreWe from "../components/WhoAreWe.jsx"
 import Team from "../components/Team.jsx"
 import Reservation from "../components/Reservation.jsx"
-// import Qualities from '../../components/Qualities.jsx'
-// import Menu from '../../components/Menu.jsx'
-// import WhoAreWe from '../../components/WhoAreWe.jsx'
-// import Team from '../../components/Team.jsx'
-// import Reservation from '../../components/Reservation.jsx'
-// import Footer from '../../components/Footer.jsx'
 
 const Home = () => {
   return (

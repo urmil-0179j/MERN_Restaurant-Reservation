@@ -798,19 +798,17 @@ footer .container {
 footer .container .banner {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 footer .container .banner:first-child {
-  padding-bottom: 30px;
-  margin-bottom: 20px;
+  padding-bottom: 3px;
+  margin-bottom: 10px;
   position: relative;
 }
 footer .container .banner:first-child::after {
   content: "";
   position: absolute;
-  bottom: 0;
   width: 100%;
-  height: 3px;
-  background: #111;
 }
 footer .container .banner:first-child .left {
   font-size: 1.75rem;

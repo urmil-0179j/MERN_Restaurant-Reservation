@@ -1,11 +1,24 @@
-// import React from 'react'
+import { Link } from "react-router-dom";
+import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 
-const Notfound = () => {
+const NotFound = () => {
   return (
     <>
-        <h1>Not Found PAGE</h1>
+      <section className="notFound">
+        <div className="container">
+          <img src="/notFound.svg" alt="notFound" />
+          <h1>LOOKS LIKE YOU ARE LOST</h1>
+          <p>We are unable to find the page you are looking for</p>
+          <Link to={"/"}>
+            Back to Home{" "}
+            <span>
+              <HiOutlineArrowNarrowRight />
+            </span>
+          </Link>
+        </div>
+      </section>
     </>
-  )
-}
+  );
+};
 
-export default Notfound
+export default NotFound;
